@@ -1,0 +1,64 @@
+﻿  Main.cpp
+D:\Projects\C++\SnakeGame\SnakeGame\src\Main.cpp(32,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Projects\C++\SnakeGame\SnakeGame\src\Main.cpp(98,16): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Projects\C++\SnakeGame\SnakeGame\src\Main.cpp(98,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Projects\C++\SnakeGame\SnakeGame\src\Main.cpp(99,17): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Projects\C++\SnakeGame\SnakeGame\src\Main.cpp(99,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Projects\C++\SnakeGame\SnakeGame\src\Main.cpp(205,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\C++\SnakeGame\SnakeGame\src\Main.cpp(205,40): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\C++\SnakeGame\SnakeGame\src\Main.cpp(205,32): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\C++\SnakeGame\SnakeGame\src\Main.cpp(205,26): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\C++\SnakeGame\SnakeGame\src\Main.cpp(91,7): warning C4101: 'canMove': unreferenced local variable
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol _glFlush@0
+sfml-graphics-s.lib(Shader.cpp.obj) : error LNK2001: unresolved external symbol _glFlush@0
+sfml-graphics-s.lib(Shader.cpp.obj) : error LNK2001: unresolved external symbol _glGetIntegerv@8
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol _glGetIntegerv@8
+sfml-graphics-s.lib(GLExtensions.cpp.obj) : error LNK2001: unresolved external symbol _glGetIntegerv@8
+sfml-graphics-s.lib(TextureSaver.cpp.obj) : error LNK2001: unresolved external symbol _glGetIntegerv@8
+sfml-graphics-s.lib(RenderTextureImplFBO.cpp.obj) : error LNK2001: unresolved external symbol _glGetIntegerv@8
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol _glGetTexImage@20
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol _glLoadIdentity@0
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glLoadIdentity@0
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol _glLoadMatrixf@4
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glLoadMatrixf@4
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol _glMatrixMode@4
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glMatrixMode@4
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol _glTexImage2D@36
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol _glTexParameteri@12
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol _glBindTexture@8
+sfml-graphics-s.lib(TextureSaver.cpp.obj) : error LNK2001: unresolved external symbol _glBindTexture@8
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol _glCopyTexSubImage2D@32
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol _glDeleteTextures@8
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol _glGenTextures@8
+sfml-graphics-s.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol _glTexSubImage2D@36
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glBlendFunc@8
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glClear@4
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glClearColor@16
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glDisable@4
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glEnable@4
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glPopAttrib@0
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glPopMatrix@0
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glPushAttrib@4
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glPushMatrix@0
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glViewport@16
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glColorPointer@16
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glDisableClientState@4
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glDrawArrays@12
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glEnableClientState@4
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glPopClientAttrib@0
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glPushClientAttrib@4
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glTexCoordPointer@16
+sfml-graphics-s.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol _glVertexPointer@16
+sfml-graphics-s.lib(GLExtensions.cpp.obj) : error LNK2001: unresolved external symbol _glGetError@0
+sfml-graphics-s.lib(GLExtensions.cpp.obj) : error LNK2001: unresolved external symbol _glGetString@4
+sfml-window-s.lib(GlContext.cpp.obj) : error LNK2001: unresolved external symbol __imp__glEnable@4
+sfml-window-s.lib(GlContext.cpp.obj) : error LNK2001: unresolved external symbol __imp__glGetError@0
+sfml-window-s.lib(GlContext.cpp.obj) : error LNK2001: unresolved external symbol __imp__glGetIntegerv@8
+sfml-window-s.lib(GlContext.cpp.obj) : error LNK2001: unresolved external symbol __imp__glGetString@4
+sfml-window-s.lib(GlContext.cpp.obj) : error LNK2001: unresolved external symbol __imp__glIsEnabled@4
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp__wglCreateContext@4
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp__wglDeleteContext@4
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp__wglGetProcAddress@4
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp__wglMakeCurrent@8
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp__wglShareLists@8
+D:\Projects\C++\SnakeGame\bin\Release\Win32\SnakeGame.exe : fatal error LNK1120: 43 unresolved externals
